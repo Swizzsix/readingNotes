@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 ## Table of Contents
-- READ 01 Lines 5-
+- 2MAY2021 READ 01 Lines 5-34
 
 # READ 01
 ## HTML Jon Duckett
@@ -11,7 +11,8 @@
 - "opening tags can carry attributes, which tell us more about the content of that element
 - "attributes require a name and value"
 ### Chapter 8: “Extra Markup” (p.176-199) 
-- block elements = <h1> <li> <ul> <p> Inline elements = <a> <b> <em> <img>
+- block elements = <h1> <li> <ul> <p> 
+- Inline elements = <a> <b> <em> <img>
 - "DOCTYPES tell browsers which version of HTML you are using"
 - "The ID and class attributes allow you to group block level and inline elements together"
 - "the <div> and <span> elements allow you to group block level and inline lements together"
