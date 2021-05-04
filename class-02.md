@@ -1,4 +1,4 @@
-# READ 01
+# READ 02
 ## HTML Jon Duckett
 ### Chapter 2: “Text” (pp.40-61) 
 - Headings = <h1>-<h6> paragraphs = <p> bold = <b> italic = <i> line break = <br> emphasis = em
