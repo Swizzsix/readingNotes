@@ -1,4 +1,4 @@
-# READ 02
+# READ 03
 ## HTML Jon Duckett
 ### Chapter 3: “Lists” (pp.62-73)
 - ol/ul = ordered list/unordered list li = list item 
