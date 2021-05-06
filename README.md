@@ -166,14 +166,6 @@ for (i = 0; i < arrayLength; i++){
 ### Chapter 3: “Lists” (pp.62-73)
 - ol/ul = ordered list/unordered list li = list item 
 - nested lists
-<!-- <ul>
-  <li>
-  <li>
-    <ul>
-      <li>
-      <li>
-    <ul>
-<ul> -->
 - ordered lists used numbers while unordered lists use bullets 
 
 ### Chapter 13: “Boxes” (pp.300-329)
