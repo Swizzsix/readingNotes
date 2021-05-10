@@ -5,6 +5,7 @@
 - 4MAY2021 READ 03 Lines 162-203
 - 5MAY2021 READ 04 Lines 206-254
 - 6MAY2021 READ 05 Lines 249-277
+- 6MAY2021 READ 06 Lines 
 # READ 01
 ## HTML Jon Duckett
 ### Chapter 1: “Structure” (pp.12-39) 
