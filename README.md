@@ -7,6 +7,7 @@
 - 8MAY2021 READ 05 Lines 249-277
 - 7MAY2021 READ 06 Lines 281-297
 - 10MAY2021 READ 07 Lines 309-327
+- 11MAY2021 READ 08 Lines 330-337
 # READ 01
 ## HTML Jon Duckett
 ### Chapter 1: “Structure” (pp.12-39) 
@@ -326,3 +327,12 @@ I covered this chapter in class -02 reading notes.
     -"web browsers implement objects that represent both the browser window and the document loaded into the browser window"
     -"javascript also has several built in objects such as String, Number, Math, and Date. Their properties and methods offer functionality that help you write scripts"
     -"arrays and objects can be used to create complex data sets (and both can contain the other)"
+
+# READ 08
+## Jon Duckett HTML book:
+### HTML/CSS book, Ch. 15, “Layout” (again; repeat of Class 4 reading)
+### SUMMARY
+    - "the new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure"
+    - "The new elements provice clearer code (compared with using multiple <div> elements)"
+    - "older browsers that do not understand HTML5 elements need to be told which elements are block-level elements"
+    - "to make html5 elements work in internet explorer 8 (an older version of IE) extra javascript is needed which is available free from google"
