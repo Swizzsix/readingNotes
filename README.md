@@ -8,7 +8,8 @@
 - 7MAY2021 READ 06 Lines 281-297
 - 10MAY2021 READ 07 Lines 309-327
 - 11MAY2021 READ 08 Lines 330-337
-- 12MAY 2021 READ 09 Lines 337-374
+- 12MAY2021 READ 09 Lines 337-374
+- 13MAY2021 READ 10 Lines 376-389
 # READ 01
 ## HTML Jon Duckett
 ### Chapter 1: “Structure” (pp.12-39) 
@@ -372,3 +373,18 @@ I covered this chapter in class -02 reading notes.
     - "when an ecent occurs on an element, it can trigger a javascript function. when this function then changes the web page in some way, it feels interactive because it has responded to the user"
     -"you can use eent delegation to monitor for events that happen on all of the children of an element"
     - "the most commonly used events are WSC DOM events, although there are others in the HTML5 specification as well as broswer specific events"
+
+# READ 10
+## JS Jon Duckett
+### JavaScript book, Ch. 10, “Error Handling & Debugging”
+    - EXECUTION CONTEXTS = Global/function/EVAL 
+    - VARIABLE SCOPE = GGlobal scope/function level scope
+    - THE STACK "The javascript interpreter processes one line of code at a time. when a statemenet needs data from another function, it stacks the new function on top of the current task"
+    - Executing context and hoisting 1. prepare 2. execute
+    - scope
+### SUMMARY:
+    - "If you understand execution contexts (which have two stages) and stacks, yo u are more likely to find the error in your code"
+    - "debugging is the process of finding errors. It involves a process of deduction."
+    - "the console helps narrow down the area in which the error is located, so you can try to find the exact error"
+    - "javascript has 7 different types of errors. each creates its own error object, which can tell you its line number an gives a description of the error."
+    - "if you know that you make get an error, you can hangle it gracefully using the try, catch, finally statements. Use them to give your user helpful feedback"
