@@ -1,4 +1,4 @@
-# READ 06
+# READ 07
 ## Domain Modeling
     -OBJECT ORIENTED MODEL
     - Property/Data/Type
